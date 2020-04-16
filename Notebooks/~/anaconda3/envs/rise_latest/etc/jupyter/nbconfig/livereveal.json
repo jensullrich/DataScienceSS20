@@ -1,9 +1,0 @@
-{
-  "theme": "sky",
-  "transition": "zoom",
-  "start_slideshow_at": "selected",
-  "width": 1200,
-  "height": 800,
-  "header": "<h1>Data Science - Use Case: BigMarket </h1>",
-  "footer": "<h3>Janis Keuper - HS Offenburg, SS20</h3>"
-}
