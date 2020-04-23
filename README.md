@@ -26,8 +26,8 @@ Course materials for the Data Science online class in SS20.
 
 ### Exercises
 Please upload your solutions via Moodle!
-* [Exercise 1_a](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb)
-* [Exercise 1_b](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)
+* [Exercise 1_a](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb) [--Solution--](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/1_a_Solution.ipynb)
+* [Exercise 1_b](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)[ --Solution--](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/1_b-Solution.ipynb)
 
 ## Block 2 - Recommender Systems
 
@@ -47,8 +47,10 @@ Please upload your solutions via Moodle!
 
 ### Exercises
 Please upload your solutions via Moodle!
-* [Exercise 2_a](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/2_a_Numpy.ipynb)
-* [Exercise 2_b](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/2_b_Recommender_SVD.ipynb)
+* [Exercise 2_a](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/2_a_Numpy.ipynb) [--Solution--](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/2_a_Solution.ipynb)
+
+* [Exercise 2_b](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/2_b_Recommender_SVD.ipynb) [--Solution--](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/2_b-Solution.ipynb)
+
 
 ## Block 3 - Data Wrangling
 
@@ -62,6 +64,36 @@ Please upload your solutions via Moodle!
 * [Data Wrangling](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/3_a_Data_Wrangling.ipynb)
 * [Basic Statistics](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/3_b_Basic_Statistics.ipynb)
 * [The Group By Pattern](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/3_c_GroupBy.ipynb)
+
+
+### Lab
+* [Pandas Intro Part 1](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_01.ipynb)
+* [Pandas Intro Part 2](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_02.ipynb)
+* [Pandas Intro Part 3](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_03.ipynb)
+* [Pandas Intro Part 4](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_04.ipynb)
+* [Pandas Intro Part 5](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_05.ipynb)
+* [Pandas Intro Part 6](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_06.ipynb)
+* [Pandas Intro Part 7](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_07.ipynb)
+
+### Exercises
+* [3_a_Basic Pandas](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/3_a_Basic_Pandas.ipynb)
+* [3_b_Baby Names](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/3_b_Baby_Names.ipynb)
+* [3_c_Titanic](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )
+* [3_d_GroupBy I](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)
+* [3_e_GroupBy II](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)
+* [3_f_GroupBy III](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_III.ipynb)
+
+## Block 4 - Machine Learning I-II
+
+### Static Slides
+* [Data Storage](Slides/04_a_Data_Storage.pdf)
+* [Machine Learning I - Intro](Slides/04-b_Machine_Learning_I.pdf)
+* [Machine Learning II - Clustering](Slides/04_c_Machine_Learning_II.pdf)
+
+
+### Notebooks
+* [Data Storage](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/04_a_Data_Storage.ipynb)
+* [Use Case: Clustering](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/04_d_UseCase_NY_Taxy_II.ipynb)
 
 
 
