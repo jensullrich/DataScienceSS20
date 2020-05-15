@@ -103,7 +103,54 @@ Please upload your solutions via Moodle!
 
 
 ### Exercises
-* [4_g_Clustering_I](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I.ipynb)
-* [4_h_Clustering_NY_Taxi](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II.ipynb)
+* [4_g_Clustering_I](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I.ipynb) [ -- solution --](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I_solution.ipynb)
+* [4_h_Clustering_NY_Taxi](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II.ipynb) [ -- solution --](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II_solution.ipynb)
+
+
+## Block 5 - Machine Learning III-IV
+
+### Static Slides
+* [Statistics II](Slides/05_a_Statistics_II.pdf)
+* [Machine Learning III - Naive Bayes](Slides/05_b_Machine_Learning_III_bayes.pdf)
+* [Machine Learning IV - Linear Models](Slides/05_c_Machine_Learning_IV_linear.pdf)
+
+
+### Notebooks
+* [Statistics II](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/05_a_Statistics_Part_II.ipynb)
+
+### Exercises
+* [5_a_Classification_MNIST](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/5_a_Classification.ipynb)  [ -- solution --](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/5_a_Classification_solution.ipynb)
+* [5_b_Regression_NY_Taxi](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxy.ipynb)  [ -- solution --](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxi_solution.ipynb)
+
+
+## Block 6 - Machine Learning V-VII
+
+### Static Slides
+* [Machine Learning V - Non-Linear Models I](Slides/06_a_Machine_Learning_V_nonlinear_models_part_I.pdf)
+* [Machine Learning V - Non-Linear Models II - SVM](Slides/06_b_Machine_Learning_V_nonlinear_models_part_II.pdf)
+* [Machine Learning VI - Outlier Detection](Slides/06_c_Machine_Learning_VI_outlier_detection.pdf)
+* [Machine Learning VII - Model Selectionn](Slides/06_d_Machine_Learning_VII_Model_Selection.pdf)
+* [Python Lambda Expressions](Slides/06_e_Python_lambda.pdf)
+
+### Notebooks
+* [Python Lambda Expressions](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/06_Lambda_Operators.ipynb)
+
+### Exercises
+* [6_a_Non-Linear_Classification_MNIST](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification.ipynb)
+* [6_b_Bayes_Optimization_Regression_NY_Taxi](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy.ipynb)
+
+## Block 7 - Deep Learnig
+
+### Static Slides
+* [Feature Extraction ](Slides/07_a_Machine_Learning_VII_Feature_Extraction.pdf)
+* [Introduction to Deep Learning](Slides/07_b_Deep_Learning_Introduction.pdf)
+
+### Notebooks
+* [Keras Intro](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Notebooks/07_c_keras_intro.ipynb)
+
+### Exercises
+* [7_a_Outlier_Detection_with Autoencoders](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder.ipynb)
+* [7_b_Image_Classification_with_CNNs](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/7_b_CNNs.ipynb)
+>>>>>>> 6b3080c7fa6ab3b4eba9947509c9b9348ba4deae
 
 
