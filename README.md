@@ -82,7 +82,6 @@ Please upload your solutions via Moodle!
 * [3_d_GroupBy I](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)[ -- solution -- ](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/3_d_solution.ipynb)
 * [3_e_GroupBy II](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/3_e_solution.ipynb)
 * [3_f_GroupBy III](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_III.ipynb)[ -- solution --](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/3_f_solution.ipynb)
->>>>>>> 4a68202252ad84147352dda38e9b173c4061741a
 
 ## Block 4 - Machine Learning I-II
 
@@ -138,7 +137,6 @@ Please upload your solutions via Moodle!
 ### Exercises
 * [6_a_Non-Linear_Classification_MNIST](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification.ipynb)[ -- solution --](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification_solution.ipynb)
 * [6_b_Bayes_Optimization_Regression_NY_Taxi](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy.ipynb)[ -- solution --](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy_solution.ipynb)
->>>>>>> 9eda384ce397899a5e38a321d7479e3ce71bb75d
 
 ## Block 7 - Deep Learnig
 
@@ -152,8 +150,6 @@ Please upload your solutions via Moodle!
 ### Exercises
 * [7_a_Outlier_Detection_with Autoencoders](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder.ipynb)
 * [7_b_Image_Classification_with_CNNs](https://colab.research.google.com/github/jensullrich/DataScienceSS20/blob/master/Exercises/7_b_CNNs.ipynb)
->>>>>>> 6b3080c7fa6ab3b4eba9947509c9b9348ba4deae
-
 
 ## Block 8 - Deep Learnig
 
